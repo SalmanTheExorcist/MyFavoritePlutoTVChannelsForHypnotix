@@ -43,4 +43,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5adf96e3e
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f988934a507de00075d9ae7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="Plex FrightFlix UK" tvg-logo="http://is4.mzstatic.com/image/thumb/Purple127/v4/a8/4d/5b/a84d5b80-dfd2-764c-23b1-e85f223ea36f/source/600x600bb.jpg" tvg-id="PlexFrightFlix.uk" group-title="Plex LiveTV UK",Plex FrightFlix UK
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621674502c2627c068e73ada/variant.m3u8?url=3ac31a672e9a7fddb640482e4b498afa-756c78c75cbb0c5e4a092bb3c006c3a4ed950df986379f5c71d11ce3f2b1c47db514ea4322a6085d9a5ac2baa6cb99038879efa169d022707b5ac97beae35138eb5d2104900156e47459ee2f0a2bda483e63a0fd0d16007a32cd962b4a5dc1ac&x-plex-token=oJe9SqzA287h1W1J64R-
+#EXTINF:-1 tvg-name="Plex MBC UK" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9e55b28-9f0c-4fe0-9f0e-c45631ba7ecf/mbc_logo.png" tvg-id="PlexMBC.uk" group-title="Plex LiveTV UK",Plex MBC UK
+https://cdn21.fntvchannel.com/v1/manifest/02eeb1726c343dc9c30c32e93dee82013e157021/FNTV-Channel-Plex/48ef4cb0-bf60-4c1b-bc7e-fe7648245cc6/2.m3u8
+
 
